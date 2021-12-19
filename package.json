@@ -7,7 +7,8 @@
     "start": "nodemon block2.js"
   },
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "ramda": "^0.27.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
