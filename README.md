@@ -3,3 +3,6 @@ Using the principles of functional programming to  implement a blockchain in jav
 
 
 Block2.js is an altered version of the tutorial( with some changes in approach) , Block1.js is the source code for the tutorial.
+
+
+BlockImperative.js is the imperative version
